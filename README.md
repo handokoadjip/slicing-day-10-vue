@@ -1,4 +1,4 @@
-# day-1-vue
+# Creative Market | Mountain Everest
 
 ## Project setup
 ```
